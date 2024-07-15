@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(242, 242, 24);
+    color: purple;
+    padding: 10px;
+    font-size: 20px
+}
+
+#lebron {
+    float: left;
+}
+
+#desc {
+    float: right;
+}
+
+#gameReviews {
+    clear: both;
+    background-color: purple;
+    color: rgb(242, 242, 24);
+}
